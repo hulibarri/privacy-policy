@@ -1,7 +1,7 @@
 Privacy Policy
 Effective Date: April 7, 2025
 
-This app, Media Swipe, does not collect, store, or share any personal data from users.
+This app, does not collect, store, or share any personal data from users.
 
 Information We Do Not Collect
 No user names, emails, or passwords
